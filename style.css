@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    text-shadow: ;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.enviar {
+    width: 40%;
+    padding: 15px 0;
+    background: pink;
+    color: write;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background:darkcyan;.enviar:hover {
+        background:darkcyan;
+        transform: rotate(70deg) scale(1.2);
+    }
+    transform: rotate(70deg) scale(1.2);
+}
+
